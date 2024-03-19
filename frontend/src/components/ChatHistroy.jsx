@@ -10,7 +10,7 @@ class ChatHistory extends Component {
 
     return (
       <div className="bg-[#f7f7f7] p-5">
-        <h2> Chat History </h2>
+        <h2 className="text-xl font-semibold"> Chat History </h2>
         {messages}
       </div>
     );
