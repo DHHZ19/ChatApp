@@ -10,7 +10,6 @@
     ├── public/
     ├── src/
     │   ├── components/
-    │   └── pages/
     ├── package.json
 ├── README.md
 ```
